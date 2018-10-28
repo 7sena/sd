@@ -37,4 +37,4 @@ function timerFunc() {
 
 var timer = setTimeout(timerFunc, 1);
 
-client.login("NDk4NDY5MjUxMzMwMzQyOTEy.DrcB3A.QPP17z4N2WRR2lU_Av_DGv_r-_s");
+client.login(process.env.BOT_TOKEN);
